@@ -4,12 +4,13 @@
 - 🌱 Estudando ReactJS.
 - 📫 Contate-me no e-mail devnicolas.coroa@gmail.com
 
- <div style="display: inline_block">
+ <div>
   <a src="http://github.com/d3vnicolas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
+  <img style="display: inline-block" height="170em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="display: inline-block" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-  <div style="display: inline_block"><br>
+  <div ><br>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
