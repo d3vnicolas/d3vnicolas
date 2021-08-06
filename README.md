@@ -4,7 +4,7 @@
 - 🌱 Estudando ReactJS.
 - 📫 Contate-me no e-mail devnicolas.coroa@gmail.com
 
- <div>
+ <div width="950em">
   <a src="http://github.com/d3vnicolas">
   <img width="480em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
