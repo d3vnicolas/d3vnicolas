@@ -6,17 +6,15 @@
 
  <div>
   <a src="http://github.com/d3vnicolas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
+  <img width="480em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div style="display: inline_block"><br>
-    <img align="center" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img align="center" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/sass.png"/>
-    <img align="center" width="48px" height="48px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
-    <img align="center" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img align="center" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-  
- <!--<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+  <div><br>
+    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+    <img align="right" width="48px" height="48px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
+    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 </div>
   <hr>
 <div>
