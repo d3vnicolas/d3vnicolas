@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicolas Soares 👋
 
-- 🔭 Em busca de uma oportunidade.
+- 🔭 Em busca da primeira oportunidade.
 - 🌱 Estudando ReactJS.
 - 📫 Contate-me no e-mail devnicolas.coroa@gmail.com
 
