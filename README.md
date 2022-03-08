@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nicolas Soares 👋
 
-- 🔭 Em busca da primeira oportunidade profissional.
-- 🌱 Estudando ReactJS.
+- 🧑‍💻 Desenvolvedor front-end Jr na <a href="https://webjump.atlassian.net/wiki/spaces/WJ/overview?mode=global">Webjump</a>
+- 🌱 Estudando ReactJS e Magento.
 - 📫 Contate-me no e-mail devnicolas.coroa@gmail.com
 
  <div width="950em">
