@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicolas Soares 👋
 
-- 🧑🏻‍💻 Desenvolvedor front-end Jr na <a href="https://webjump.com.br/" target="_blank">Webjump</a>
+- 🧑🏻‍💻 Desenvolvedor front-end Jr na <a href="https://webjump.com.br/">Webjump</a>
 - 📚 Estudando ReactJS e Magento.
 - 📫 Contate-me no e-mail <a href="mailto:devnicolas.coroa@gmail.com">devnicolas.coroa@gmail.com</a>
 
@@ -20,5 +20,6 @@
 <div>
     <a align="center" href="https://www.facebook.com/nicolas.soares.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.instagram.com/_nicsoares/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/nicolas-soares-887655220/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:devnicolas.coroa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
