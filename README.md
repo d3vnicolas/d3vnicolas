@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Nicolas Soares 👋
 
-- 🧑🏻‍💻 Desenvolvedor front-end Jr na <a href="https://webjump.com.br/">Webjump</a>
-- 📚 Estudando ReactJS e Magento.
+- 🧑🏻‍💻 Desenvolvedor front-end Pleno na <a href="https://www.bis2bis.com.br/" target="_blank">Bis2bis</a>
 - 📫 Contate-me no e-mail <a href="mailto:devnicolas.coroa@gmail.com">devnicolas.coroa@gmail.com</a>
 
  <div width="950em">
