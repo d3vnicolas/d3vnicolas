@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Nicolas Soares 👋
 
-- 🧑🏻‍💻 Desenvolvedor Adobe Commerce Pleno
+- 🧑🏻‍💻 Desenvolvedor Adobe Commerce
 - 📫 Contate-me no e-mail <a href="mailto:devnicolas.coroa@gmail.com">devnicolas.coroa@gmail.com</a>
 - 📚 Estudando NodeJS e NextJS
 
