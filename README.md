@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Nicolas Soares 👋
 
-- 🧑🏻‍💻 Desenvolvedor Adobe Commerce
+- 🧑🏻‍💻 Front-end Engineer | Adobe Commerce (Magento 2) | React · Next.js · TypeScript | E-commerce
 - 📫 Contate-me no e-mail <a href="mailto:devnicolas.coroa@gmail.com">devnicolas.coroa@gmail.com</a>
-- 📚 Estudando NodeJS e NextJS
+- 📚 Cursando último período em Sistemas para Internet.
 
  <div width="950em">
   <a src="http://github.com/d3vnicolas">
