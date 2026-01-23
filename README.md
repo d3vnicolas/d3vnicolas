@@ -1,20 +1,19 @@
-### Olá! Eu sou o Nicolas Soares 👋
+### Olá! Eu sou o Nicolas Soares 🙋‍♂️
 
-- 🧑🏻‍💻 Front-end Engineer | Adobe Commerce (Magento 2) | React · Next.js · TypeScript | E-commerce
-- 📫 Contate-me no e-mail <a href="mailto:devnicolas.coroa@gmail.com">devnicolas.coroa@gmail.com</a>
-- 📚 Cursando último período em Sistemas para Internet.
+- 💻 Front-end Engineer | Adobe Commerce (Magento 2) | React · Next.js · TypeScript | E-commerce
+- 📩 Contate-me no e-mail <a href="mailto:devnicolas.coroa@gmail.com">devnicolas.coroa@gmail.com</a>
+- 📖 Cursando último período em Sistemas para Internet e me aprofundando em React Native.
 
  <div width="950em">
   <a src="http://github.com/d3vnicolas">
-  <img  width="400em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="400em" src="https://github-readme-stats.vercel.app/api?username=d3vnicolas&theme=dark&include_all_commits=true&count_private=true"/>
   <img  width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div><br>
-    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/sass.png"/>
     <img align="right" width="48px" height="48px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
-    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img align="right" width="48px" height="48px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dfba0cee-2318-474d-9a0e-2300ec16fd62" />
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/420a8538-f7ce-4cf6-8fc7-b0a772b7f94a" />
+    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cfedb4ef-4c7d-4006-819d-e360a45c8b8e" />
 </div>
   <hr>
 <div>
