@@ -10,10 +10,10 @@
   <img  width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vnicolas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div><br>
-    <img align="right" width="48px" height="48px" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png"/>
-    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dfba0cee-2318-474d-9a0e-2300ec16fd62" />
-    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/420a8538-f7ce-4cf6-8fc7-b0a772b7f94a" />
-    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/cfedb4ef-4c7d-4006-819d-e360a45c8b8e" />
+    <img align="right" width="48px" height="48px" src="https://github.com/user-attachments/assets/9998dd78-c531-4cac-a981-dcd894b5ef18" />
+    <img align="right" width="48px" height="48px" src="https://github.com/user-attachments/assets/dfba0cee-2318-474d-9a0e-2300ec16fd62" />
+    <img align="right" width="48px" height="48px" src="https://github.com/user-attachments/assets/420a8538-f7ce-4cf6-8fc7-b0a772b7f94a" />
+    <img align="right" width="48px" height="48px" src="https://github.com/user-attachments/assets/cfedb4ef-4c7d-4006-819d-e360a45c8b8e" />
 </div>
   <hr>
 <div>
